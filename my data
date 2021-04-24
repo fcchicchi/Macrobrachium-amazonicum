@@ -46,9 +46,9 @@ data.ap = 90;      units.ap = 'd';    label.ap = 'age at puberty';  bibkey.ap = 
   comment.ap  = 'periodo 2 meses';
   
 data.Lp_F  = 2.9; units.Lp_F  = 'cm';   label.Lp_F  = 'total length at puberty';  bibkey.Lp_F  = 'Hayd2013';
-  comment.Lp_F = 'menor tamanho de camarão com ovos';
+  comment.Lp_F = 'menor tamanho de carapaça camarão com ovos';
 data.Lp_TC  = 0.3; units.Lp_TC  = 'cm';   label.Lp_TC  = 'total length at puberty';  bibkey.Lp_TC  = 'Costa&Silva2019';
-  comment.Lp_TC = 'menor tamanho de camarão maduro sexualmente';
+  comment.Lp_TC = 'menor tamanho de carapaça camarão maduro sexualmente';
 data.Li_F  = 12.66;   units.Li_F  = 'cm';   label.Li_F  = 'ultimate total length';  bibkey.Li_F  = 'Silva2006';
   comment.Li_F = 'estimativa feita usando a metodologia Appeldoorn';
 data.Li_GC2  = 15.84;   units.Li_GC2  = 'cm';   label.Li_GC2  = 'ultimate total length';  bibkey.Li_GC2  = 'Silva2006';
