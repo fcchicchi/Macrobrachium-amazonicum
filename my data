@@ -37,22 +37,22 @@ metaData.address  = {'UNESP, Universidade Estadual Paulista "Júlio de Mesquita 
 % age 0 is at onset of embryo development
 data.ab = 12;      units.ab = 'd';    label.ab = 'age at birth';  bibkey.ab = 'MacielValenti2009';   
   temp.ab = C2K(28);  units.temp.ab = 'K'; label.temp.ab = 'temperature';
-  comment.ab  = 'periodo varia de 12 a 18 dias';
+  comment.ab  = 'period varies from 12 to 18 days';
 data.tj = 18;     units.tj = 'd';    label.tj = 'time since birth at metam';  bibkey.tj = 'MacielValenti2009';   
   temp.tj = C2K(28);  units.temp.tj = 'K'; label.temp.tj = 'temperature';
-  comment.aj  = 'periodo varia de 18 a 19 dias';
+  comment.aj  = 'period varies from 18 to 19 days';
 data.ap = 90;      units.ap = 'd';    label.ap = 'age at puberty';  bibkey.ap = 'MacielValenti2009';   
   temp.ap = C2K(28);  units.temp.ap = 'K'; label.temp.ap = 'temperature';
-  comment.ap  = 'periodo 2 meses';
+  comment.ap  = 'period 2 months';
   
 data.Lp_F  = 2.9; units.Lp_F  = 'cm';   label.Lp_F  = 'total length at puberty';  bibkey.Lp_F  = 'Hayd2013';
-  comment.Lp_F = 'menor tamanho de carapaça camarão com ovos';
+  comment.Lp_F = 'smallest carapace length prawns with eggs';
 data.Lp_TC  = 0.3; units.Lp_TC  = 'cm';   label.Lp_TC  = 'total length at puberty';  bibkey.Lp_TC  = 'Costa&Silva2019';
-  comment.Lp_TC = 'menor tamanho de carapaça camarão maduro sexualmente';
+  comment.Lp_TC = 'smallest carapace length sexually mature';
 data.Li_F  = 12.66;   units.Li_F  = 'cm';   label.Li_F  = 'ultimate total length';  bibkey.Li_F  = 'Silva2006';
-  comment.Li_F = 'estimativa feita usando a metodologia Appeldoorn';
+  comment.Li_F = 'estimate made using the Appeldoorn methodology';
 data.Li_GC2  = 15.84;   units.Li_GC2  = 'cm';   label.Li_GC2  = 'ultimate total length';  bibkey.Li_GC2  = 'Silva2006';
-  comment.Li_GC2 = 'estimativa feita usando a metodologia Appeldoorn';
+  comment.Li_GC2 = 'estimate made using the Appeldoorn methodology';
 
 data.Wdb = 5.86e-6;   units.Wdb = 'g';   label.Wdb = 'dry weight at birth';       bibkey.Wdb = 'Hayd2007';
 
