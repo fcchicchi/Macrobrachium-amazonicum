@@ -1,6 +1,8 @@
 %% predict_Macrobrachium_amazonicum
 % Obtains predictions, using parameters and data
 
+%%%%%%NOTE: This script refers only to females of the species, need to adapt it for male morphotypes%%%%%%
+
 %%
 function [prdData, info] = predict_Macrobrachium_amazonicum_female(par, data, auxData)
   % created by Starrlight Augustine, Dina Lika, Bas Kooijman, Goncalo Marques and Laure Pecquerie 2015/01/30; 
