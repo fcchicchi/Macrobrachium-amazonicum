@@ -1,4 +1,4 @@
-function [par, metaPar, txtPar] = pars_init_Macrobrachium_amazonicum_female(metaData)
+function [par, metaPar, txtPar] = pars_init_Macrobrachium_amazonicum(metaData)
 
 metaPar.model = 'abj'; 
 
