@@ -1,5 +1,5 @@
 function [par, metaPar, txtPar] = pars_init_Macrobrachium_amazonicum(metaData)
-
+%NOTE: This script refers only to females of the species, need to adapt it for male morphotypes
 metaPar.model = 'abj'; 
 
 %% reference parameter (not to be changed) 
